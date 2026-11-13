@@ -1,3 +1,6 @@
 # remote_workspace
 TEST
-TEST2
+<<<<<<< local
+
+Snowflake test
+
